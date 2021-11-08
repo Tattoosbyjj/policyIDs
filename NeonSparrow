@@ -1,4 +1,5 @@
-{
+[
+  {
     "project": "NeonSparrow",
     "tags": [ "NeonSparrow","Neon","sparrow","tattoos","TattoosbyJJ","swallow,"hand","drawn" ],
     "policies": [
@@ -17,4 +18,5 @@
         "7cdd0e84a874e0e830cbf10ad3a79fddac3f8a2ff5d8f6e9d8c4c354",
         "ed524aa685795b8ac6bd15a2fd95a77d3bbd3e3e444e3a28063846f3"]
 
-}
+  }
+]
